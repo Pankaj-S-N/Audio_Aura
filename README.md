@@ -1,2 +1,2 @@
-# CS661-Big-Data-Visual-Analytics
+# CS661-BDVA
 Project for Big Data Visual Analytics
