@@ -79,7 +79,7 @@ fig.add_trace(go.Sunburst(
 fig.update_layout(
     title=f'Top {m} Genres',
     title_x = 0.33,
-    width=400, height=400
+    width=600, height=600
 )
 
 # Display the plot
@@ -136,7 +136,7 @@ fig2.add_trace(go.Sunburst(
 fig2.update_layout(
     title=f'Bottom {m} Genres',
     title_x = 0.33,
-    width=400, height=400
+    width=600, height=600
 )
 
 # Display the second plot
