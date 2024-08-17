@@ -184,6 +184,7 @@ Execute the given `setup.bat` or run the command `pip install -r requirements.tx
 Execute the given `run.bat` or run the command `streamlit run Home.py`
 
 **Deployed Application:**<br>
-https://cs661-big-data-visual-analytics-group1.streamlit.app/
+https://audioaura.streamlit.app
+
 
 <br>
